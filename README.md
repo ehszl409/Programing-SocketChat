@@ -27,4 +27,5 @@
 
 ### 게임 시연 장면
 ----------------------------------------
+- 이미지 삽입 
 <img src="https://user-images.githubusercontent.com/73862305/102190220-154ccc00-3efb-11eb-849e-d1bc7ea65df6.jpg">
